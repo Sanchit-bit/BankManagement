@@ -1,0 +1,6 @@
+Date,Time,Account_Number,Transaction_Type,Amount,Balance_After,Description
+30/07/2025,11:27:48,1001,ACCOUNT_CREATED,50000.00,50000.00,Account opened with initial deposit
+30/07/2025,11:28:42,1002,ACCOUNT_CREATED,4500.00,4500.00,Account opened with initial deposit
+30/07/2025,11:29:21,1001,TRANSFER_OUT,2500.00,47500.00,Transfer to Acc: 1002
+30/07/2025,11:29:21,1002,TRANSFER_IN,2500.00,7000.00,Transfer from Acc: 1001
+30/07/2025,11:38:53,1003,ACCOUNT_CREATED,10000.00,10000.00,Account opened with initial deposit
